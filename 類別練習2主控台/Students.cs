@@ -56,5 +56,19 @@ namespace 類別練習2主控台
                     school = value;
             }
         }
+
+        public string Clas
+        {
+            get
+            {
+                return clas;
+            }
+
+            set
+            {
+                clas = value;
+            }
+        }
+
     }
 }

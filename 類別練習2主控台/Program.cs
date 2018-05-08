@@ -54,6 +54,8 @@ namespace 類別練習2主控台
                 Console.WriteLine("arr: {0}", arr[i]);
 
             }
+
+            
             
             Console.Write("請按任一鍵結束視窗");
             Console.ReadKey();
